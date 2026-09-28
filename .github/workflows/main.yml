@@ -1,0 +1,18 @@
+name: CI Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Print messages
+        run: |
+          echo "Hello from GitHub Actions!"
+          echo "Назва репозиторію: ${{ github.repository }}"
+          echo "Номер поточного запуску: ${{ github.run_number }}"
