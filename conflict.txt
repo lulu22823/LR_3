@@ -1,1 +1,1 @@
-Рядок з conflict_test
+Текст версії CONFLICT_TEST
