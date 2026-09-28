@@ -1,1 +1,1 @@
-Рядок з main
+Рядок з conflict_test
