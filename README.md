@@ -15,4 +15,4 @@
 | GitHub | Віддалений хостинг |
 
 ### Зображення
-![Хачіваре](HACHIWARE.jpg)
+![Хачіваре](https://i.pinimg.com/736x/a9/dc/07/a9dc070a7831ea20ebca42bcec87b21b.jpg)
